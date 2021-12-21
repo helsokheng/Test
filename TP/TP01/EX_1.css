@@ -1,0 +1,14 @@
+.wapper{
+    width: 300px;
+    height: 500px;
+    background-color: wheat;
+}
+.box{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    background-color: tomato;
+    text-align: center;
+    padding: 20px;
+    margin:100px;
+}
